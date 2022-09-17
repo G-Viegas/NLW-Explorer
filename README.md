@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #NLW eSports
 
 ![Preview](./.github/preview.png)
@@ -17,3 +18,7 @@ Projeto construido do Evento Next Level Week da Rocketseat
 ## 💜 Contato
 
 - guilhermeviegas7k@gmail.com
+=======
+# NLW-Explorer 
+# Finalizando o Explorer da RocketSeat...
+>>>>>>> 923fa692bc5881baa121ea4be539ab25ff472394
