@@ -44,6 +44,8 @@ header div {
 
     transition: transform .3s;
 
+    animation: fromTop .7s 0.2s backwards;
+
 }
 
 header div img {
@@ -116,9 +118,6 @@ section ul {
     border: 1px solid #443E54;
 }
 
-header div {
-    animation: fromTop .7s 0.2s backwards;
-}
 
 main section {
     animation: fromBottom .7s backwards;
